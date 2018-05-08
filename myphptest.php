@@ -8,7 +8,7 @@
   <h2>Powered by Github, AWS CodeDeploy, and AWS Elastic Beanstalk</h2>
 
   <?php
-  echo "Version 4"
+  echo "Version 5 18:30-2018-05-08"
   ?>
 
 </body>
